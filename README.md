@@ -9,10 +9,18 @@ Let's grow together through coding excellence!
 
 ### Day 1 
 **Codeforces Sheet**
-- [] [A. Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) 
+- [x] [A. Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A)
+
+---
+
+### Day 2 
+**Codeforces Sheet**
+- [x]
 
 **Leetcode** 
-- [] one
+- [x] Best Time to Buy and Sell Stock(https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] Contains Duplicate(https://leetcode.com/problems/contains-duplicate/)
+- [x] 
 
 **Dev**
-- [] one
+- [x] Tried to refactor reset password feature
