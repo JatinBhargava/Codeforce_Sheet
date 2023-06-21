@@ -15,12 +15,14 @@ Let's grow together through coding excellence!
 
 ### Day 2 
 **Codeforces Sheet**
-- [x]
+
+- [x] Mostafa Sheet
 
 **Leetcode** 
 - [x] Best Time to Buy and Sell Stock(https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] Contains Duplicate(https://leetcode.com/problems/contains-duplicate/)
-- [x] 
+- [x] Product of Array Except Self(https://leetcode.com/problems/product-of-array-except-self/)
+- [x] Maximum Subarray(https://leetcode.com/problems/maximum-subarray/)
 
 **Dev**
 - [x] Tried to refactor reset password feature
