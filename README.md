@@ -7,34 +7,30 @@ By maintaining this GitHub repository, I showcase my progress, solutions, and ex
 
 Let's grow together through coding excellence!
 
-### Day 1 
-**Codeforces Sheet**
-- [x] [A. Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A)
+#
 
----
+##### Day 1 - 20 June 2023
+- [x] Set Up Git Repo for Code Journey
 
-### Day 2 
-**Codeforces Sheet**
+#
 
-- [x] Mostafa Sheet
+##### Day 2 - 21 June 2023
 
 **Leetcode** 
-- [x] Best Time to Buy and Sell Stock(https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [x] Contains Duplicate(https://leetcode.com/problems/contains-duplicate/)
-- [x] Product of Array Except Self(https://leetcode.com/problems/product-of-array-except-self/)
-- [x] Maximum Subarray(https://leetcode.com/problems/maximum-subarray/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 **Dev**
 - [x] Tried to refactor reset password feature
-
-<hr>
-
-### Day 3 
+#
+##### Day 3 - 22 June 2023
 
 **Leetcode** 
-- [x] 152. Maximum Product Subarray(https://leetcode.com/problems/maximum-product-subarray/)
-- [x] 153. Find Minimum in Rotated Sorted Array(https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [x] 33. Search in Rotated Sorted Array(https://leetcode.com/problems/search-in-rotated-sorted-array/)  
+- [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [x] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
 
 **Dev**
 - [x] Tried to refactor reset password feature
