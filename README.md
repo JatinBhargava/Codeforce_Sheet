@@ -26,3 +26,15 @@ Let's grow together through coding excellence!
 
 **Dev**
 - [x] Tried to refactor reset password feature
+
+<hr>
+
+### Day 3 
+
+**Leetcode** 
+- [x] 152. Maximum Product Subarray(https://leetcode.com/problems/maximum-product-subarray/)
+- [x] 153. Find Minimum in Rotated Sorted Array(https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] 33. Search in Rotated Sorted Array(https://leetcode.com/problems/search-in-rotated-sorted-array/)  
+
+**Dev**
+- [x] Tried to refactor reset password feature
