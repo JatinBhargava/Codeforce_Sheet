@@ -82,8 +82,10 @@ int main() {
       temp->next = start->next;
       start->next = temp;
     }
-    ``` 
-      
+    ```
 
-  
+   - [x] Delete Node
+     ```
+     
+     ``` 
     
