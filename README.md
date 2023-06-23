@@ -9,12 +9,12 @@ Let's grow together through coding excellence!
 
 #
 
-##### Day 1 - 20 June 2023
+##### ``Day 1 - 20 June 2023``
 - [x] Set Up Git Repo for Code Journey
 
 #
 
-##### Day 2 - 21 June 2023
+##### ``Day 2 - 21 June 2023``
 
 **Leetcode** 
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -25,7 +25,7 @@ Let's grow together through coding excellence!
 **Dev**
 - [x] Tried to refactor reset password feature
 #
-##### Day 3 - 22 June 2023
+##### ``Day 3 - 22 June 2023``
 
 **Leetcode** 
 - [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
@@ -36,7 +36,7 @@ Let's grow together through coding excellence!
 - [x] Tried to refactor reset password feature
 
 #
-##### Day 4 - 23 June 2023
+##### ``Day 4 - 23 June 2023``
 
 **Concept**
 - [x] Watched Linked list
