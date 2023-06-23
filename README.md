@@ -43,7 +43,9 @@ Let's grow together through coding excellence!
 - [x] Single,double,circular 
 
 **Leetcode** 
-- [x]  
+- [x]  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [x]  [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [x]  [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 **Dev**
 - [x] Tried to refactor reset password feature
