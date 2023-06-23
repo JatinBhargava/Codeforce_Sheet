@@ -10,6 +10,7 @@ or block. 1 is int value and have some random addess value.
 
 So |1|0x0| -> |2|0x4| -> |3|0x8| -> NULL
 
+```
 class Node{
 	public :
 			int value;
@@ -21,6 +22,6 @@ class Node{
 					this.next = NULL;
 			}
 }
-
+```
 So Node first say 1 is a head and having int value and next 
 value. 
