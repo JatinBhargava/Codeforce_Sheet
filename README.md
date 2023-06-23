@@ -51,3 +51,18 @@ You can refer my codes at this Repo : [Leetcode Solution](https://leetcode.com/p
 
 **Dev**
 - [x] Tried to refactor reset password feature
+
+#
+##### ``Day 4 - 23 June 2023``
+
+**Concept**
+- [x] Watched Linked list
+- [x] Single,double,circular 
+
+**Leetcode** 
+- [x]  [15. 3Sum](https://leetcode.com/problems/3sum/)
+- [x]  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x]  [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+
+**Dev**
+- [x] Tried to refactor reset password feature
