@@ -34,3 +34,16 @@ Let's grow together through coding excellence!
 
 **Dev**
 - [x] Tried to refactor reset password feature
+
+#
+##### Day 4 - 23 June 2023
+
+**Concept**
+- [x] Watched Linked list
+- [x] Single,double,circular 
+
+**Leetcode** 
+- [x]  
+
+**Dev**
+- [x] Tried to refactor reset password feature
