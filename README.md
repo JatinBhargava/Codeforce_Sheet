@@ -53,7 +53,7 @@ You can refer my codes at this Repo : [Leetcode Solution](https://leetcode.com/p
 - [x] Tried to refactor reset password feature
 
 #
-##### ``Day 4 - 24 June 2023``
+##### ``Day 5 - 24 June 2023``
 
 **Concept**
 - [x] Watched Linked list
@@ -68,14 +68,18 @@ You can refer my codes at this Repo : [Leetcode Solution](https://leetcode.com/p
 - [x] Tried to refactor reset password feature
 
 #
-##### ``Day 4 - 25 June 2023``
+##### ``Day 6 - 25 June 2023``
 
 **Concept**
 - [x] [Bit Manipulation](https://rb.gy/fnm7q)  
 
 **Leetcode** 
 - [x]  [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
-- [ ]  sks
+- [x]  [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [x]  [704. Binary Search](https://leetcode.com/problems/binary-search/)
+- [x]  [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/#:~:text=Search%20Insert%20Position%20%2D%20LeetCode&text=Given%20a%20sorted%20array%20of,(log%20n)%20runtime%20complexity.)
 
 **Dev**
-- [x] Tried to refactor reset password feature
+- [x] Auth part completed
+- [ ] Reset Password
+- [x] Home Page : Feed Page - UI/UX  
