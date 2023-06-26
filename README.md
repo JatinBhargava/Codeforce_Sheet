@@ -88,11 +88,13 @@ You can refer my codes at this Repo : [Leetcode Solution](https://leetcode.com/p
 ##### ``Day 7 - 26 June 2023``
 
 **Concept**
-
+Binary Search Adv.
 
 **Leetcode** 
-- [ ]  [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-- [ ]  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.)  
+- [x]  [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [x]  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.)
+- [x]  [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [x]  [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) 
 
 **Dev**
-
+Worked on open source project issue.
