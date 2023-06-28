@@ -108,10 +108,20 @@ Binary Search Adv.
 **Leetcode** 
 - [x]  [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [x]  [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-- [x]  []()
-- [ ]  []()
-
 
 **Dev**
 Worked on open source project issue.
+
+#
+##### ``Day 9 - 28 June 2023``
+
+**Concept**
+Binary Search Adv.
+
+**Leetcode** 
+- [x] Revise Left Question
+
+**Dev**
+Worked on open source project issue.
+
 
