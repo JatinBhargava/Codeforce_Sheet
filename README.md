@@ -94,7 +94,7 @@ Binary Search Adv.
 - [x]  [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [x]  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.)
 - [x]  [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
-- [ ]  [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) 
+- [x]  [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) 
 
 **Dev**
 Worked on open source project issue.
@@ -125,17 +125,29 @@ Binary Search Adv.
 Worked on open source project issue.
 
 #
-##### ``Day 9 - 29 June 2023``
+##### ``Day 10 - 29 June 2023``
 
 **Concept**
 Binary Search Adv.
 
 **Leetcode** 
 - [x] [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [x] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-- [x] [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)  
+- [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+- [ ] [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)  
 
 **Dev**
 Worked on open source project issue.
 
+#
+##### ``Day 11 - 30 June 2023``
+
+**Concept**
+Binary Search Adv.
+
+**Leetcode** 
+- [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+- [ ] [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)  
+
+**Dev**
+Worked on open source project issue.
 
