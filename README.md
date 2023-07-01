@@ -146,8 +146,24 @@ Binary Search Adv.
 
 **Leetcode** 
 - [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-- [ ] [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)  
+- [x] [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+- [x] [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/#:~:text=Given%20an%20array%20arr%20of,13%2C...%5D.)
 
 **Dev**
 Worked on open source project issue.
 
+#
+##### ``Day 12 - 1 July 2023``
+
+**Concept**
+Binary Search Adv.
+
+**Leetcode** 
+- [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+- [ ] [2358. Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/)
+- [ ] [2517. Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)
+- [ ] [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+
+**Dev**
+Worked on open source project issue.
+      
