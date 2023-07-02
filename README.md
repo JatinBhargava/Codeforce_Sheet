@@ -159,10 +159,11 @@ Worked on open source project issue.
 Binary Search Adv.
 
 **Leetcode** 
-- [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) - DP
 - [ ] [2358. Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/)
 - [ ] [2517. Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)
 - [ ] [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [ ] [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+- [ ] [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)
 
 **Dev**
 Worked on open source project issue.
