@@ -167,4 +167,32 @@ Binary Search Adv.
 
 **Dev**
 Worked on open source project issue.
+
+#
+##### ``Day 13 - 2 July 2023``
+
+- [x] Missed Documenting 
+
+#
+##### ``Day 14 - 3 July 2023``
+
+**Leetcode** :
+
+**Dev** :
+
+- [x] why post req. not working 😭
+
+#
+##### ``Day 15 - 4 July 2023``
+
+**Concept**
+Linked List
+
+**Leetcode** 
+- [x]  [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x]  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [x]  [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
+**Dev**
+Made my first PR at Milan.
       
