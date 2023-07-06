@@ -195,4 +195,32 @@ Linked List
 
 **Dev**
 Made my first PR at Milan.
+
+#
+##### ``Day 16 - 5 July 2023``
+
+**Concept**
+Linked List
+
+**Leetcode** 
+- [ ]  Merge Two Sorted Linked List
+- [ ]  Remove duplicates from sorted list
+- [ ]  Intersection of two linked list
+
+**Dev**
+Made my first PR at Milan.
+
+#
+##### ``Day 17 - 6 July 2023``
+
+**Concept**
+Linked List
+
+**Leetcode** 
+- [ ]  Linked List Cycle
+- [ ]  Palindrome Linked List
+- [ ]  Swapping Nodes in a Linked List
+
+**Dev**
+Made my first PR at Milan.
       
