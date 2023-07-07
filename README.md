@@ -203,9 +203,9 @@ Made my first PR at Milan.
 Linked List
 
 **Leetcode** 
-- [ ]  Merge Two Sorted Linked List
-- [ ]  Remove duplicates from sorted list
-- [ ]  Intersection of two linked list
+- [x]  Merge Two Sorted Linked List
+- [x]  Remove duplicates from sorted list
+- [x]  Intersection of two linked list
 
 **Dev**
 Made my first PR at Milan.
@@ -217,8 +217,8 @@ Made my first PR at Milan.
 Linked List
 
 **Leetcode** 
-- [ ]  Linked List Cycle
-- [ ]  Palindrome Linked List
+- [x]  Linked List Cycle
+- [x]  Palindrome Linked List
 - [ ]  Swapping Nodes in a Linked List
 
 **Dev**
