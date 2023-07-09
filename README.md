@@ -223,4 +223,19 @@ Linked List
 
 **Dev**
 Made my first PR at Milan.
+
+#
+##### ``Day 18 - 9 July 2023``
+
+**Concept**
+Linked List
+
+**Leetcode** 
+- [x]  203. Remove Linked List Elements(https://leetcode.com/problems/remove-linked-list-elements/)
+- [x]  342. Power of Four(https://leetcode.com/problems/power-of-four/)
+- [ ]  2487. Remove Nodes From Linked List(https://leetcode.com/problems/remove-nodes-from-linked-list/)
+- [ ]  2698. Find the Punishment Number of an Integer(https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)
+
+**Dev**
+Made my first PR at Milan.
       
