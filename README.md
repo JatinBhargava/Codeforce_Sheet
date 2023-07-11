@@ -238,4 +238,15 @@ Linked List
 
 **Dev**
 Made my first PR at Milan.
-      
+
+#
+##### ``Day 19 - 11 July 2023``
+
+**Concept**
+Linked List
+
+**Leetcode** 
+
+
+**Dev**
+Made my first PR at Milan.
