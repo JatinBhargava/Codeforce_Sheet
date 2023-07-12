@@ -246,7 +246,20 @@ Made my first PR at Milan.
 Linked List
 
 **Leetcode** 
+NO CODING
 
+**Dev**
+Made my first PR at Milan.
+
+#
+##### ``Day 20 - 12 July 2023``
+
+**Concept**
+Linked List
+
+**Leetcode** 
+- [x] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [x] [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) 
 
 **Dev**
 Made my first PR at Milan.
