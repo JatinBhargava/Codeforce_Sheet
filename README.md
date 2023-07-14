@@ -273,3 +273,16 @@ Sliding Window and 2 Pointers
 **Leetcode** 
 - [x] [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 
+
+#
+##### ``Day 22 - 14 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode** 
+- [x] [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
+- [x] [Solved all easy sliding window questions]
+- [x] [Count Substrings Without Repeating Character](https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+- [x] 438. Find All Anagrams in a String(https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+
