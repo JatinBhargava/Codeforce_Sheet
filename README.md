@@ -284,5 +284,5 @@ Sliding Window and 2 Pointers
 - [x] [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
 - [x] [Solved all easy sliding window questions]
 - [x] [Count Substrings Without Repeating Character](https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
-- [x] 438. Find All Anagrams in a String(https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [x] [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
