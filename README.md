@@ -286,3 +286,13 @@ Sliding Window and 2 Pointers
 - [x] [Count Substrings Without Repeating Character](https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
 - [x] [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
+#
+##### ``Day 23 - 15 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode** 
+ - [x] 438. Find All Anagrams in a String(https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+ - [x] 567. Permutation in String(https://leetcode.com/problems/permutation-in-string/)
+ - [x] 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold(https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)  
