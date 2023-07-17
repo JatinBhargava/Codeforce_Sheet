@@ -296,3 +296,14 @@ Sliding Window and 2 Pointers
  - [x] 438. Find All Anagrams in a String(https://leetcode.com/problems/find-all-anagrams-in-a-string/)
  - [x] 567. Permutation in String(https://leetcode.com/problems/permutation-in-string/)
  - [x] 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold(https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)  
+
+#
+##### ``Day 24 - 16 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode** 
+ - [x] [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+ - [x] [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
+ - [x] [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)   
