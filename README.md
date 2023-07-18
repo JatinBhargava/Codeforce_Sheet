@@ -306,4 +306,14 @@ Sliding Window and 2 Pointers
 **Leetcode** 
  - [x] [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
  - [x] [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
- - [x] [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)   
+ - [x] [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
+
+#
+##### ``Day 25 - 17 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode** 
+- [ ]  [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+- [ ]  
