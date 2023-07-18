@@ -309,11 +309,23 @@ Sliding Window and 2 Pointers
  - [x] [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
 
 #
-##### ``Day 25 - 17 July 2023``
+##### ``Day 25 - 18 July 2023``
 
 **Concept**
 Sliding Window and 2 Pointers
 
 **Leetcode** 
 - [ ]  [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
-- [ ]  
+- [x]  [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [ ]  [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) 
+- [ ]  [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) 
+
+#
+##### ``Day 25 - 18 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode** 
+
+- [ ] []
