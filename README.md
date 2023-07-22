@@ -321,11 +321,47 @@ Sliding Window and 2 Pointers
 - [ ]  [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) 
 
 #
-##### ``Day 25 - 18 July 2023``
+##### ``Day 26 - 20 July 2023``
 
 **Concept**
 Sliding Window and 2 Pointers
 
 **Leetcode** 
 
-- [ ] []
+- [x] [424. Longest Repeating Character Replacement]
+
+#
+##### ``Day 27 - 21 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode** 
+- [x] [1004. Max Consecutive Ones III]
+- [x] [1493. Longest Subarray of 1's After Deleting One Element]
+
+#
+##### ``Day 28 - 22 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode**
+
+- [ ] [2024. Maximize the Confusion of an Exam]
+- [ ] [904. Fruit Into Baskets]
+- [ ] [2024. Maximize the Confusion of an Exam]
+- [ ] [76. Minimum Window Substring]
+- [ ] [30. Substring with Concatenation of All Words]
+
+
+#
+##### ``Day 28 - 22 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode**
+
+- [ ] [Check if Array is Good]
+- [ ] [Sort Vowels in a String]
