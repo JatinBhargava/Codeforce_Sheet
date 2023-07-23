@@ -348,11 +348,11 @@ Sliding Window and 2 Pointers
 
 **Leetcode**
 
-- [ ] [2024. Maximize the Confusion of an Exam]
-- [ ] [904. Fruit Into Baskets]
-- [ ] [2024. Maximize the Confusion of an Exam]
-- [ ] [76. Minimum Window Substring]
-- [ ] [30. Substring with Concatenation of All Words]
+- [x] [2024. Maximize the Confusion of an Exam]
+- [x] [904. Fruit Into Baskets]
+- [x] [2024. Maximize the Confusion of an Exam]
+- [x] [76. Minimum Window Substring]
+- [x] [30. Substring with Concatenation of All Words]
 
 
 #
@@ -363,5 +363,17 @@ Sliding Window and 2 Pointers
 
 **Leetcode**
 
-- [ ] [Check if Array is Good]
-- [ ] [Sort Vowels in a String]
+- [x] [Check if Array is Good]
+- [x] [Sort Vowels in a String]
+
+#
+##### ``Day 29 - 23 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode**
+- [x]  [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [x]  [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+- [x]  [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [x]  [392. Is Subsequence](https://leetcode.com/problems/move-zeroes/)
