@@ -377,3 +377,10 @@ Sliding Window and 2 Pointers
 - [x]  [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [x]  [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [x]  [392. Is Subsequence](https://leetcode.com/problems/move-zeroes/)
+
+#
+##### ``Day 29 - 23 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
