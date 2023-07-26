@@ -379,9 +379,13 @@ Sliding Window and 2 Pointers
 - [x]  [392. Is Subsequence](https://leetcode.com/problems/move-zeroes/)
 
 #
-##### ``Day 29 - 23 July 2023``
+##### ``Day 30 - 26 July 2023``
 
 **Concept**
 Sliding Window and 2 Pointers
 
-- [x] 
+- [ ] [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [ ] [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+- [ ] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [ ] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [ ] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) 
