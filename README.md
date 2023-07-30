@@ -384,8 +384,34 @@ Sliding Window and 2 Pointers
 **Concept**
 Sliding Window and 2 Pointers
 
+**Leetcode**
 - [x] [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+
+
+#
+##### ``Day 31 - 27 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode**
 - [x] [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
-- [ ] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [ ] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [ ] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) 
+
+#
+##### ``Day 32 - 28 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode**
+- [x] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [x] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+#
+##### ``Day 33 - 30 July 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode**
+- [x] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) 
