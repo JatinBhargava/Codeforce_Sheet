@@ -414,4 +414,16 @@ Sliding Window and 2 Pointers
 Sliding Window and 2 Pointers
 
 **Leetcode**
-- [x] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) 
+- [x] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+#
+##### ``Day 34- 2 August 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode**
+- [x] [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+- [x] [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+- [x] [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
+- [ ] 
