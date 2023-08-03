@@ -426,4 +426,4 @@ Sliding Window and 2 Pointers
 - [x] [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 - [x] [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 - [x] [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
-- [ ] 
+- [x] Permutaion
