@@ -426,4 +426,26 @@ Sliding Window and 2 Pointers
 - [x] [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 - [x] [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 - [x] [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
-- [x] Permutaion
+- [x] [46. Permutations](https://leetcode.com/problems/permutations/)
+
+#
+##### ``Day 35- 3 August 2023``
+
+**Concept**
+Sliding Window and 2 Pointers
+
+**Leetcode**
+None;
+
+**Development**
+- [x] Started Book site
+- [x] Fetch data done
+
+#
+##### ``Day 36- 4 August 2023``
+
+**Concept**
+Stack - Recursion - Backtracking
+
+**Leetcode**
+- [x] [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
