@@ -449,3 +449,5 @@ Stack - Recursion - Backtracking
 
 **Leetcode**
 - [x] [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+- [x] [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
+- [x] [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
