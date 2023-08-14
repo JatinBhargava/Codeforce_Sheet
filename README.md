@@ -451,3 +451,31 @@ Stack - Recursion - Backtracking
 - [x] [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 - [x] [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
 - [x] [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+
+#
+##### ``Day 37- 5 August 2023``
+
+**Concept**
+Stack - Recursion - Backtracking
+
+**Leetcode**
+ - [x] Next Greater Element II
+
+#
+##### ``Day 38- 9 August 2023``
+
+**Concept**
+Stack - Recursion - Backtracking
+
+**Leetcode**
+ - [x] 132 Pattern
+
+#
+##### ``Day 38- 9 August 2023``
+
+**Concept**
+Stack - Recursion - Backtracking
+
+**Leetcode**
+ - [x] [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
+ - [x] 84. Largest Rectangle in Histogram(https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
