@@ -471,7 +471,7 @@ Stack - Recursion - Backtracking
  - [x] 132 Pattern
 
 #
-##### ``Day 38- 9 August 2023``
+##### ``Day 38- 12 August 2023``
 
 **Concept**
 Stack - Recursion - Backtracking
@@ -479,3 +479,13 @@ Stack - Recursion - Backtracking
 **Leetcode**
  - [x] [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
  - [x] 84. Largest Rectangle in Histogram(https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+
+#
+##### ``Day 39- 14 August 2023``
+
+**Concept**
+Stack - Recursion - Backtracking
+
+**Leetcode**
+- [x] [2334. Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)
+- [ ] 
